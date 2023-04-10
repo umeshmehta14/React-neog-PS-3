@@ -29,6 +29,7 @@ const studentData = [
     id: 4,
     name: "Nina",
     marks: 56
+
   }
 ];
 
